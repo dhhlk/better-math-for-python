@@ -270,3 +270,4 @@ def logistic(x, r="3.9"):
     x = Decimal(x)
     r = Decimal(r)
     return r * x * (ONE - x)
+
