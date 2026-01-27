@@ -34,7 +34,7 @@ understanding how math libraries work internally
 
 Clone the repository:
 
-git clone https://github.com/dhhlk/better-maths-for-python
+git clone https://github.com/dhhlk/better-maths-for-python.git
 
 
 Then import directly (no install needed):
