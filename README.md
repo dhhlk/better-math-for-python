@@ -34,7 +34,7 @@ understanding how math libraries work internally
 
 Clone the repository:
 
-git clone https://github.com/yourusername/maths--cleaned-python-module.git
+git clone https://github.com/dhhlk/better-maths-for-python
 
 
 Then import directly (no install needed):
@@ -42,7 +42,6 @@ Then import directly (no install needed):
 from maths_cleaned import *
 
 🔢 Precision Control
-
 The module uses Python’s decimal module:
 
 from decimal import getcontext
