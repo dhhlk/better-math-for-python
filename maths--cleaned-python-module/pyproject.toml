@@ -33,8 +33,9 @@ dependencies = []
 [project.urls]
 Homepage = "https://github.com/yourusername/maths--cleaned-python-module"
 Repository = "https://github.com/yourusername/maths--cleaned-python-module"
-Issues = “https://github.com/dhhlk/better-math-for-python/issues”
+Issues = "https://github.com/dhhlk/better-math-for-python/issues"
 
 [tool.setuptools]
 packages = ["maths_cleaned"]
+
 
