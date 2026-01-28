@@ -51,6 +51,7 @@ getcontext().prec = 28
 You can change precision anytime before calculations.
 
 🧠 Available Functions
+
 🔹 Constants
 
 PI
