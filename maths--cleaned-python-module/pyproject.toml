@@ -31,12 +31,13 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/yourusername/maths--cleaned-python-module"
+Homepage = "https://github.com/dhhlk"
 Repository = "https://github.com/dhhlk?tab=repositories"
 Issues = "https://github.com/dhhlk/better-math-for-python/issues"
 
 [tool.setuptools]
 packages = ["maths_cleaned"]
+
 
 
 
